@@ -1,0 +1,53 @@
+*{
+   font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+   
+}
+body{
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.login{
+    text-align: center;
+    padding-top:5%;
+    
+    padding-bottom: 10%;
+    margin:15%;
+    font-size: 4vh;
+    background-color: rgba(0, 0, 0, 0.225);
+}
+header{
+    background-color: rgba(128, 128, 128, 0.671);
+}
+
+.izq{
+    align-items: top;
+    margin: 0;
+width: 50%;
+display: inline-block;
+
+}
+
+.right{
+  
+   float: right;
+    margin: 0;
+width: 50%;
+}
+input{
+    margin: 1%;
+    font-size: 4vh;
+}
+
+#log{
+    margin-top: 10%;
+
+}
+
+h1{
+    margin:3%;
+    font-size: 5vh;
+ 
+
+}

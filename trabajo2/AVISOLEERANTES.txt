@@ -1,0 +1,1 @@
+La conexion a la base de datos esta creada con xammp hay que añadir la contraseña.
