@@ -1,0 +1,3 @@
+# Trabajo2
+Realizado en XAMP 
+BASE DE DATOS SIN PASSWORD
